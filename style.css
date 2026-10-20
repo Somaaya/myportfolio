@@ -7,7 +7,7 @@ body {
 }
 
 .card {
-  background-color: white;
+  background-color: rgb(236, 222, 222);
   padding: 30px;
   border-radius: 12px;
   max-width: 600px;
@@ -15,5 +15,5 @@ body {
 }
 
 h1 {
-  color: #2563eb;
+  color: rgb(170, 20, 20);
 }
